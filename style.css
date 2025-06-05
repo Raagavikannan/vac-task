@@ -56,17 +56,6 @@ body {
       border-radius: 5px;
       cursor: pointer;
     }
-
-    .image-1 {
-      background-color: #6b7280;
-      width: 400px;
-      height: 200px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      color: white;
-    }
-
     .info-section {
       text-align: center;
       padding: 50px;

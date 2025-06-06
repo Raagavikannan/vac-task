@@ -87,7 +87,7 @@ body {
     }
 
     .quote-section {
-      background-color: #e5e7eb;
+      background-color: #e5e7eb; 
       padding: 60px;
       font-style: italic;
       text-align: center;
@@ -126,3 +126,9 @@ body {
       text-align: center;
       padding: 20px;
     }
+    body{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #ffffff;
+        padding: 50px;
+     }
